@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="480"
+	maxImageHeight="854"
+	galleryTitle="Best Wishes"
+
+>
+  <image imageURL="images/splash.jpg"
+	thumbURL="thumbs/splash.jpg"
+	linkURL="images/splash.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\splash.png">
+    <title><![CDATA[Splash Screen]]></title>
+    <caption><![CDATA[Splash screen with Best Wishes logo.]]></caption>
+  </image>
+  <image imageURL="images/password.jpg"
+	thumbURL="thumbs/password.jpg"
+	linkURL="images/password.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\password.png">
+    <title><![CDATA[Password Protect Your Best Wishes]]></title>
+    <caption><![CDATA[Add a password to keep all wishes a surprise.  Can you guess this password?]]></caption>
+  </image>
+  <image imageURL="images/upcoming.jpg"
+	thumbURL="thumbs/upcoming.jpg"
+	linkURL="images/upcoming.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\upcoming.png">
+    <title><![CDATA[View Upcoming Birthdays]]></title>
+    <caption><![CDATA[If there are no upcoming birthdays, you'll see this screen.]]></caption>
+  </image>
+  <image imageURL="images/birthday.jpg"
+	thumbURL="thumbs/birthday.jpg"
+	linkURL="images/birthday.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\birthday.png">
+    <title><![CDATA[Select Days in Advance]]></title>
+    <caption><![CDATA[You can choose how many days in advance you want to see.]]></caption>
+  </image>
+  <image imageURL="images/new.jpg"
+	thumbURL="thumbs/new.jpg"
+	linkURL="images/new.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\new.png">
+    <title><![CDATA[Add New Person]]></title>
+    <caption><![CDATA[Add friends, loved ones, neighbors, anyone!]]></caption>
+  </image>
+  <image imageURL="images/list.jpg"
+	thumbURL="thumbs/list.jpg"
+	linkURL="images/list.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\list.png">
+    <title><![CDATA[Profile List]]></title>
+    <caption><![CDATA[View all the people you're planning to buy gifts for.]]></caption>
+  </image>
+  <image imageURL="images/profile.jpg"
+	thumbURL="thumbs/profile.jpg"
+	linkURL="images/profile.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\profile.png">
+    <title><![CDATA[Create Profiles]]></title>
+    <caption><![CDATA[Add a person's name, birthday, their relationship to you, and their interests to brainstorm some gift ideas.]]></caption>
+  </image>
+  <image imageURL="images/add.jpg"
+	thumbURL="thumbs/add.jpg"
+	linkURL="images/add.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\add.png">
+    <title><![CDATA[Add a Gift Idea]]></title>
+    <caption><![CDATA[Add a new gift idea.  Pick an image, choose categories and occasions, write down descriptions, and save hyperlinks!]]></caption>
+  </image>
+  <image imageURL="images/image.jpg"
+	thumbURL="thumbs/image.jpg"
+	linkURL="images/image.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\image.png">
+    <title><![CDATA[Add an Image]]></title>
+    <caption><![CDATA[Add an image from external storage or include an image URL to visually remember the gift idea!]]></caption>
+  </image>
+  <image imageURL="images/detail.jpg"
+	thumbURL="thumbs/detail.jpg"
+	linkURL="images/detail.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\detail.png">
+    <title><![CDATA[detail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/move.jpg"
+	thumbURL="thumbs/move.jpg"
+	linkURL="images/move.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\move.png">
+    <title><![CDATA[Save to Purchase History]]></title>
+    <caption><![CDATA[Once you purchase the gift, move it to your purchase history to keep track!]]></caption>
+  </image>
+  <image imageURL="images/navigation.jpg"
+	thumbURL="thumbs/navigation.jpg"
+	linkURL="images/navigation.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\navigation.png">
+    <title><![CDATA[Navigation Menu]]></title>
+    <caption><![CDATA[Choose from various options to maintain your wish list more easily!]]></caption>
+  </image>
+  <image imageURL="images/budget.jpg"
+	thumbURL="thumbs/budget.jpg"
+	linkURL="images/budget.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\budget.png">
+    <title><![CDATA[Track Your Spending]]></title>
+    <caption><![CDATA[Set a budget and always keep track of how much you have left.]]></caption>
+  </image>
+  <image imageURL="images/misc.jpg"
+	thumbURL="thumbs/misc.jpg"
+	linkURL="images/misc.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\misc.png">
+    <title><![CDATA[Choose an Occasion to Keep Track]]></title>
+    <caption><![CDATA[Keep track of any one occasion other than Christmas and birthday.]]></caption>
+  </image>
+  <image imageURL="images/wishlist.jpg"
+	thumbURL="thumbs/wishlist.jpg"
+	linkURL="images/wishlist.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\wishlist.png">
+    <title><![CDATA[My Wish List]]></title>
+    <caption><![CDATA[Let's not forget your own best wishes.  Save all the items you want!]]></caption>
+  </image>
+  <image imageURL="images/tweet.jpg"
+	thumbURL="thumbs/tweet.jpg"
+	linkURL="images/tweet.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\tweet.png">
+    <title><![CDATA[Share Your Best Wishes]]></title>
+    <caption><![CDATA[Share to everyone the best wishes you have!]]></caption>
+  </image>
+  <image imageURL="images/all.jpg"
+	thumbURL="thumbs/all.jpg"
+	linkURL="images/all.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\all.png">
+    <title><![CDATA[View All Items]]></title>
+    <caption><![CDATA[View all of your gift ideas on one page.  ]]></caption>
+  </image>
+  <image imageURL="images/history.jpg"
+	thumbURL="thumbs/history.jpg"
+	linkURL="images/history.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\history.png">
+    <title><![CDATA[Track Your Purchase History]]></title>
+    <caption><![CDATA[Keep track of what you're buying.  You don't want to buy too many gifts (although they will really appreciate that)!]]></caption>
+  </image>
+  <image imageURL="images/sort.jpg"
+	thumbURL="thumbs/sort.jpg"
+	linkURL="images/sort.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\sort.png">
+    <title><![CDATA[Sort Lists]]></title>
+    <caption><![CDATA[Sort any lists wherever you see the sort button!]]></caption>
+  </image>
+  <image imageURL="images/currency.jpg"
+	thumbURL="thumbs/currency.jpg"
+	linkURL="images/currency.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\currency.png">
+    <title><![CDATA[Change Currency Symbols]]></title>
+    <caption><![CDATA[Not using dollars?  No problem, easily change your currency symbol.]]></caption>
+  </image>
+  <image imageURL="images/backup.jpg"
+	thumbURL="thumbs/backup.jpg"
+	linkURL="images/backup.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\backup.png">
+    <title><![CDATA[Save and Restore]]></title>
+    <caption><![CDATA[From settings, save and restore your files externally to not lose gift ideas and profiles.]]></caption>
+  </image>
+  <image imageURL="images/profile-land.jpg"
+	thumbURL="thumbs/profile-land.jpg"
+	linkURL="images/profile-land.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\profile-land.png">
+    <title><![CDATA[Landscape View for Profiles]]></title>
+    <caption><![CDATA[Compatibility with landscape orientation is added as well!]]></caption>
+  </image>
+  <image imageURL="images/budget-land.jpg"
+	thumbURL="thumbs/budget-land.jpg"
+	linkURL="images/budget-land.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\budget-land.png">
+    <title><![CDATA[Landscape View for Budgets]]></title>
+    <caption><![CDATA[Keep track of your budgets in landscape mode as well.]]></caption>
+  </image>
+</juiceboxgallery>

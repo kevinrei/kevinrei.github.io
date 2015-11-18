@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Kevin Rei T. Mateo</title>
+    <title>Contact Kevin Rei</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -74,47 +74,63 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <header style="background-image: url('img/header.jpg'); background-position: center; background-size: 100%;">
-        <div class="header-content">
-            <div class="header-content-inner">
-				<div class="row">
-					<img class="signature" src="img/signature.png">
-					</br>
-					<p>Hi.  I'm Kevin Rei, and I'm a graduate of The University of Texas at Austin with a B.S. in Computer Science.  I currently pursue software development, especially in the mobile field.</br>
-					</br>I'm a strong proponent of the "save the world" style of thinking, and I would love to be able make an impact of saving lives or helping people in need.  If I can do that within my career, I would have the perfect life.</br>
-				</div>
+	<header style="background-image: url('img/contact.png'); min-height: 60%;"></header>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Contact Me!</h2>
+                    <hr class="primary">
+                    <p>Please don't hesitate to contact me for anything!  Let's have a business-related conversation, a friendly chat about hobbies and interests, or just a talk about random things.</p>
+                </div>
+			</div>
 				
-				<ul class="social-media">
-					<li><a href="https://www.facebook.com/kevinreimateo" target="_blank">
-							<span class="fa-stack fa-lg">
-								<i class="fa fa-square-o fa-stack-2x"></i>
-								<i class="fa fa-facebook fa-stack-1x"></i>
-							</span></a></li>
-					<li><a href="http://google.com/+KevinReiMateo" target="_blank"">
-							<span class="fa-stack fa-lg">
-								<i class="fa fa-square-o fa-stack-2x"></i>
-								<i class="fa fa-google-plus fa-stack-1x"></i>
-							</span></a></li>
-					<li><a href="https://www.linkedin.com/in/kevinreimateo" target="_blank">
-							<span class="fa-stack fa-lg">
-								<i class="fa fa-square-o fa-stack-2x"></i>
-								<i class="fa fa-linkedin fa-stack-1x"></i>
-							</span></a></li>
-					<li><a href="https://twitter.com/glacierxrei" target="_blank">				
-							<span class="fa-stack fa-lg">
-								<i class="fa fa-square-o fa-stack-2x"></i>
-								<i class="fa fa-twitter fa-stack-1x"></i>
-							</span></a></li>
-					<li><a href="http://krcoding.blogspot.com/" target="_blank">						
-							<span class="fa-stack fa-lg">
-								<i class="fa fa-square-o fa-stack-2x"></i>
-								<i class="fa fa-rss fa-stack-1x"></i>
-							</span>
-						</a></li>
-				</ul>
+			<form id="contactform" class="form-horizontal" method="POST">
+				<div class="form-group">
+					<label for="name" class="col-sm-2 control-label">Name</label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="email" class="col-sm-2 control-label">Email</label>
+					<div class="col-sm-10">
+						<input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="message" class="col-sm-2 control-label">Message</label>
+					<div class="col-sm-10">
+						<input type="hidden" name="_subject" value="Website contact" />
+						<textarea class="form-control" name="message" placeholder="Type your message here"></textarea>
+					</div>
+				</div>
+				<input type="text" name="_gotcha" style="display:none" />
+				<div class="form-group">
+					<div class="col-sm-10 col-sm-offset-2" style="margin-top: 20px;">
+						<input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary" title="Send to kevinrei@gmail.com">
+					</div>
+				</div>
+			</form>
+			<script>
+				var contactform =  document.getElementById('contactform');
+				contactform.setAttribute('action', '//formspree.io/' + 'kevinrei' + '@' + 'gmail' + '.' + 'com');
+			</script>
+		</div>
+	</section>
+	
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<p>&copy; 2015 Kevin Rei Takeoka Mateo.  All Rights Reserved.</p>
             </div>
         </div>
-    </header>
+    </footer>
+	
+	<a href="#" class="back-to-top" style="display: inline;">
+		<i class="fa fa-arrow-circle-up"></i>
+	</a>
 	
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
