@@ -2,9 +2,8 @@
 
 <juiceboxgallery 
 
-	maxImageWidth="480"
-	maxImageHeight="854"
 	galleryTitle="Best Wishes"
+	indexPageName="jb.html"
 
 >
   <image imageURL="images/splash.jpg"
@@ -13,7 +12,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\splash.png">
     <title><![CDATA[Splash Screen]]></title>
-    <caption><![CDATA[Splash screen with Best Wishes logo.]]></caption>
+    <caption><![CDATA[Splash screen with the Best Wishes logo.]]></caption>
   </image>
   <image imageURL="images/password.jpg"
 	thumbURL="thumbs/password.jpg"
@@ -21,7 +20,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\password.png">
     <title><![CDATA[Password Protect Your Best Wishes]]></title>
-    <caption><![CDATA[Add a password to keep all wishes a surprise.  Can you guess this password?]]></caption>
+    <caption><![CDATA[Add a password to keep all wishes a secret.  Can you guess this password?]]></caption>
   </image>
   <image imageURL="images/upcoming.jpg"
 	thumbURL="thumbs/upcoming.jpg"
@@ -37,7 +36,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\birthday.png">
     <title><![CDATA[Select Days in Advance]]></title>
-    <caption><![CDATA[You can choose how many days in advance you want to see.]]></caption>
+    <caption><![CDATA[You can choose how many days in advance you'd like to see.]]></caption>
   </image>
   <image imageURL="images/new.jpg"
 	thumbURL="thumbs/new.jpg"
@@ -69,7 +68,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\add.png">
     <title><![CDATA[Add a Gift Idea]]></title>
-    <caption><![CDATA[Add a new gift idea.  Pick an image, choose categories and occasions, write down descriptions, and save hyperlinks!]]></caption>
+    <caption><![CDATA[Add a new gift idea. Pick an image, choose categories and occasions, write down descriptions, and save hyperlinks!]]></caption>
   </image>
   <image imageURL="images/image.jpg"
 	thumbURL="thumbs/image.jpg"
@@ -77,15 +76,23 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\image.png">
     <title><![CDATA[Add an Image]]></title>
-    <caption><![CDATA[Add an image from external storage or include an image URL to visually remember the gift idea!]]></caption>
+    <caption><![CDATA[Add an image from external storage or include an image URL to visually remember the gift idea.]]></caption>
+  </image>
+  <image imageURL="images/external.jpg"
+	thumbURL="thumbs/external.jpg"
+	linkURL="images/external.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\external.png">
+    <title><![CDATA[Check External Permissions]]></title>
+    <caption><![CDATA[Make sure you check your external storage permissions to use import from gallery and backup/restore features!]]></caption>
   </image>
   <image imageURL="images/detail.jpg"
 	thumbURL="thumbs/detail.jpg"
 	linkURL="images/detail.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\detail.png">
-    <title><![CDATA[detail]]></title>
-    <caption><![CDATA[]]></caption>
+    <title><![CDATA[View Item Detail]]></title>
+    <caption><![CDATA[View the details of the gift idea you saved.]]></caption>
   </image>
   <image imageURL="images/move.jpg"
 	thumbURL="thumbs/move.jpg"
@@ -101,7 +108,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\navigation.png">
     <title><![CDATA[Navigation Menu]]></title>
-    <caption><![CDATA[Choose from various options to maintain your wish list more easily!]]></caption>
+    <caption><![CDATA[Choose from various options to maintain  your wish list more easily!]]></caption>
   </image>
   <image imageURL="images/budget.jpg"
 	thumbURL="thumbs/budget.jpg"
@@ -141,7 +148,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\all.png">
     <title><![CDATA[View All Items]]></title>
-    <caption><![CDATA[View all of your gift ideas on one page.  ]]></caption>
+    <caption><![CDATA[View all of your gift ideas on one page.]]></caption>
   </image>
   <image imageURL="images/history.jpg"
 	thumbURL="thumbs/history.jpg"
@@ -149,7 +156,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\history.png">
     <title><![CDATA[Track Your Purchase History]]></title>
-    <caption><![CDATA[Keep track of what you're buying.  You don't want to buy too many gifts (although they will really appreciate that)!]]></caption>
+    <caption><![CDATA[Keep track of what you're buying.  Yo don't want to buy too many gifts (although they will really appreciate that!)]]></caption>
   </image>
   <image imageURL="images/sort.jpg"
 	thumbURL="thumbs/sort.jpg"
@@ -164,8 +171,8 @@
 	linkURL="images/currency.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\currency.png">
-    <title><![CDATA[Change Currency Symbols]]></title>
-    <caption><![CDATA[Not using dollars?  No problem, easily change your currency symbol.]]></caption>
+    <title><![CDATA[Change Currency]]></title>
+    <caption><![CDATA[Not using dollars?  No problem.  Easily change your currency symbol.]]></caption>
   </image>
   <image imageURL="images/backup.jpg"
 	thumbURL="thumbs/backup.jpg"
@@ -173,7 +180,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\backup.png">
     <title><![CDATA[Save and Restore]]></title>
-    <caption><![CDATA[From settings, save and restore your files externally to not lose gift ideas and profiles.]]></caption>
+    <caption><![CDATA[From settings, save and restore  your files externally to not lose gift ideas and profiles.]]></caption>
   </image>
   <image imageURL="images/profile-land.jpg"
 	thumbURL="thumbs/profile-land.jpg"
@@ -181,7 +188,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\profile-land.png">
     <title><![CDATA[Landscape View for Profiles]]></title>
-    <caption><![CDATA[Compatibility with landscape orientation is added as well!]]></caption>
+    <caption><![CDATA[Compatibility in landscape mode is added as well!]]></caption>
   </image>
   <image imageURL="images/budget-land.jpg"
 	thumbURL="thumbs/budget-land.jpg"
