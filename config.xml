@@ -20,7 +20,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\password.png">
     <title><![CDATA[Password Protect Your Best Wishes]]></title>
-    <caption><![CDATA[Add a password to keep all wishes a secret.  Can you guess this password?]]></caption>
+    <caption><![CDATA[Add a password to keep all wishes a secret.]]></caption>
   </image>
   <image imageURL="images/upcoming.jpg"
 	thumbURL="thumbs/upcoming.jpg"
@@ -28,7 +28,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\upcoming.png">
     <title><![CDATA[View Upcoming Birthdays]]></title>
-    <caption><![CDATA[If there are no upcoming birthdays, you'll see this screen.]]></caption>
+    <caption><![CDATA[If there are no upcoming birthdays, you'll see this.]]></caption>
   </image>
   <image imageURL="images/birthday.jpg"
 	thumbURL="thumbs/birthday.jpg"
@@ -36,7 +36,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\birthday.png">
     <title><![CDATA[Select Days in Advance]]></title>
-    <caption><![CDATA[You can choose how many days in advance you'd like to see.]]></caption>
+    <caption><![CDATA[Choose how many days in advance you'd like to see.]]></caption>
   </image>
   <image imageURL="images/new.jpg"
 	thumbURL="thumbs/new.jpg"
@@ -60,7 +60,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\profile.png">
     <title><![CDATA[Create Profiles]]></title>
-    <caption><![CDATA[Add a person's name, birthday, their relationship to you, and their interests to brainstorm some gift ideas.]]></caption>
+    <caption><![CDATA[Update profiles to brainstorm some gift ideas!]]></caption>
   </image>
   <image imageURL="images/add.jpg"
 	thumbURL="thumbs/add.jpg"
@@ -68,7 +68,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\add.png">
     <title><![CDATA[Add a Gift Idea]]></title>
-    <caption><![CDATA[Add a new gift idea. Pick an image, choose categories and occasions, write down descriptions, and save hyperlinks!]]></caption>
+    <caption><![CDATA[Add detailed information to your gift ideas!]]></caption>
   </image>
   <image imageURL="images/image.jpg"
 	thumbURL="thumbs/image.jpg"
@@ -76,15 +76,15 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\image.png">
     <title><![CDATA[Add an Image]]></title>
-    <caption><![CDATA[Add an image from external storage or include an image URL to visually remember the gift idea.]]></caption>
+    <caption><![CDATA[Add an image from external storage or include an image URL.]]></caption>
   </image>
   <image imageURL="images/external.jpg"
 	thumbURL="thumbs/external.jpg"
 	linkURL="images/external.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\external.png">
-    <title><![CDATA[Check External Permissions]]></title>
-    <caption><![CDATA[Make sure you check your external storage permissions to use import from gallery and backup/restore features!]]></caption>
+    <title><![CDATA[Check Your External Permissions]]></title>
+    <caption><![CDATA[Make sure you enable your external storage permissions!]]></caption>
   </image>
   <image imageURL="images/detail.jpg"
 	thumbURL="thumbs/detail.jpg"
@@ -100,7 +100,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\move.png">
     <title><![CDATA[Save to Purchase History]]></title>
-    <caption><![CDATA[Once you purchase the gift, move it to your purchase history to keep track!]]></caption>
+    <caption><![CDATA[Move items to your purchase history to keep track!]]></caption>
   </image>
   <image imageURL="images/navigation.jpg"
 	thumbURL="thumbs/navigation.jpg"
@@ -124,7 +124,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\misc.png">
     <title><![CDATA[Choose an Occasion to Keep Track]]></title>
-    <caption><![CDATA[Keep track of any one occasion other than Christmas and birthday.]]></caption>
+    <caption><![CDATA[Keep track another occasion!]]></caption>
   </image>
   <image imageURL="images/wishlist.jpg"
 	thumbURL="thumbs/wishlist.jpg"
@@ -156,7 +156,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\history.png">
     <title><![CDATA[Track Your Purchase History]]></title>
-    <caption><![CDATA[Keep track of what you're buying.  Yo don't want to buy too many gifts (although they will really appreciate that!)]]></caption>
+    <caption><![CDATA[Always keep track of what you're buying.]]></caption>
   </image>
   <image imageURL="images/sort.jpg"
 	thumbURL="thumbs/sort.jpg"
@@ -180,7 +180,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Kevin\Development\webdev\personal\img\bestwishes\backup.png">
     <title><![CDATA[Save and Restore]]></title>
-    <caption><![CDATA[From settings, save and restore  your files externally to not lose gift ideas and profiles.]]></caption>
+    <caption><![CDATA[From settings, save and restore your files externally.]]></caption>
   </image>
   <image imageURL="images/profile-land.jpg"
 	thumbURL="thumbs/profile-land.jpg"
