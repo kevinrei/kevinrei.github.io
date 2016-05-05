@@ -1,4 +1,4 @@
-# Moon Jekyll Theme
+# kevinrei
 
 Welcome to my personal website, created for multiple purposes: to serve as a sort of casual resume, to practice web development, and to post blog entries and interesting things around me.
 
