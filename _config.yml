@@ -1,7 +1,7 @@
 # Site
 title:              kevinrei
-bio:                'My personal website using the Moon jekyll theme.'
-description:        "Personal website, a sort of casual resume."
+bio:                'Welcome to my personal website.'
+description:        "My personal website, created using the Moon jekyll theme."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -41,7 +41,7 @@ twitter:            GlacierxRei
 facebook:           kevinreimateo
 github:             kevinrei
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:           username
+#linkedin:           kevinreimateo
 #xing:              username
 #instagram:          username
 #lastfm:             username
