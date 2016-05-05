@@ -3,14 +3,14 @@
 		<ul class="dl-menu">
 			<li><a href="{{ site.url }}/">Home</a></li>
 			<li>
-				<a href="#">About</a>
+				<a href="#">About Me</a>
 				<ul class="dl-submenu">
 					<li>
 						<img src="/assets/img/kevinrei.png" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
-					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">About Me</span></a></li>
+					<li><center><a href="{{ site.url }}/about/"><span class="btn btn-inverse"><center>More Info</center></span></a></li></center>
 					{% if site.email %}<li>
                         <a href="mailto:{{ site.email }}" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
                     </li>{% endif %}
@@ -79,15 +79,7 @@
                     </li>{% endif %}
 				</ul><!-- /.dl-submenu -->
 			</li>
-			<li>
-				<a href="{{ site.url }}/hobbies/"">Hobbies</a>
-			<li>
-				<a href="#">Posts</a>
-				<ul class="dl-submenu">
-					<li><a href="{{ site.url }}/posts/">All Posts</a></li>
-					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
-				</ul>
-			</li>
+			<li><a href="{{ site.url }}/hobbies/">Hobbies</a></li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
@@ -95,6 +87,13 @@
 		        {% assign domain = site.url %}
 		    {% endif %}
 		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-		  {% endfor %}
+			{% endfor %}
+			<li>
+				<a href="#">Blog Posts</a>
+				<ul class="dl-submenu">
+					<li><a href="{{ site.url }}/posts/">All Posts</a></li>
+					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
+				</ul>
+			</li>
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
