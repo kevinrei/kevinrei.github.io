@@ -1,13 +1,13 @@
 # Site
-title:              kevinrei
+title:              Kevin Rei
 bio:                'Welcome to my personal website.'
-description:        "My personal website, created using the Moon jekyll theme."
+description:        "An average Japanese-Filipino Houstonian who loves video games and all things mobile."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/sunset.jpg'
 locale:             en_US
-url:                https://kevinrei.github.io
+#url:                https://kevinrei.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -37,20 +37,20 @@ disqus_shortname:   kevinrei
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            GlacierxRei
 facebook:           kevinreimateo
+twitter:            GlacierxRei
+tumblr:             glaciershards
+linkedin:           kevinreimateo
 github:             kevinrei
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kevinreimateo
 #xing:              username
-#instagram:          username
-#lastfm:             username
-tumblr:             glaciershards
+#instagram:         username
+#lastfm:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
-#youtube:            username
+#youtube:           username
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
