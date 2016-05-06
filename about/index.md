@@ -3,19 +3,30 @@ layout: page
 title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-05-05
-timeline: true
 ---
     
 <center>Also check out my <a href="{{ site.url }}/hobbies">hobbies</a>!</center>
 
+# Quick Navigation
+- [My Timeline](#my-timeline)
+- [Academic Achievements](#academic-achievements)
+- [Mini Resume](#mini-resume)
+- [What am I doing now?](#what-now)
+
+
 ----------
 
+
 <p>
+<div id='my-timeline'/>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=170LpFN9kSSNILr6-4p7xrhEab0AkZ0jCNkF1N2qAG1E&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
 </p>
 
+
 ----------
 
+
+<div id='academic-achievements'/>
 ## Academic Achievements
 * **Perfect Attendance Awards** (St. Mary's, La Salle, Kahla).  I was a good kid.
 * *Six* **academic achievement awards** (Kahla), including subjects like math and science.
@@ -30,18 +41,11 @@ timeline: true
 	</blockquote>
 * **College graduation** with a **_Bachelor of Science in Computer Science_** (UT).  Class of 2015!
 
-----------
-
-## What am I doing now?
-* Looking for a **software developer** position!
-* Learning new development tools (Eclipse, Visual Studio, Unity).
-* Learning new programming languages (Python, SQL).
-* Personal projects like Best Wishes to continue practicing.
-* Trying to learn new skills, like playing the piano.
-* Volunteering at [Habitat for Humanity Northwest Harris County](http://www.habitatnwhc.org).
 
 ----------
 
+
+<div id='mini-resume'/>
 ## Mini Resume: Skill Sets and Qualifications
 
 **Software and tools**: **Android Studio**, Eclipse, Unity (2D), Microsoft Office, Github, Bitbucket, Twitter Bootstrap 3
@@ -53,3 +57,17 @@ timeline: true
 **Languages**: **English**, **Japanese**, Tagalog, Spanish
 
 **Areas of familiarity**: Budgeting, (social media) advertising, risk management
+
+
+----------
+
+
+
+<div id='what-now'/>
+## What am I doing now?
+* Looking for a **software developer** position!
+* Learning new development tools (Eclipse, Visual Studio, Unity).
+* Learning new programming languages (Python, SQL).
+* Personal projects like Best Wishes to continue practicing.
+* Trying to learn new skills, like playing the piano.
+* Volunteering at [Habitat for Humanity Northwest Harris County](http://www.habitatnwhc.org).
