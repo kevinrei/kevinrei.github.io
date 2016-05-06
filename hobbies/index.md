@@ -39,7 +39,6 @@ date: 2016-05-05
 ### Currently watching:
 * A Game of Thrones
 * The Chicago series (Med, Fire, PD)
-* JoJo's Bizarre Adventure Part 4
 
 ### Currently reading:
 * The Art of Racing in the Rain
