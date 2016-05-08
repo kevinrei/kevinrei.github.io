@@ -2,13 +2,12 @@
 layout: post
 title:  "Color Me This!"
 date:   2016-05-07
-excerpt: "A color detection app project for Android"
+excerpt: "A color detection application project for Android"
 project: true
 tag:
 - android
 - project
 - team
-comments: true
 ---
 
 ![Color Me This!](https://cloud.githubusercontent.com/assets/8562283/15092672/6b9ac020-1436-11e6-9fd1-555c91c6ce32.png)
