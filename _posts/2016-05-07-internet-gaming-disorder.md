@@ -7,7 +7,7 @@ project: true
 tag:
 - project
 - video
-- games
+- game
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZykeP1Dq1LM" frameborder="0" allowfullscreen></iframe>

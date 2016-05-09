@@ -17,10 +17,8 @@ layout: compress
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
-					{% if project.false %}
                     <h4>{{ page.date | date_to_string }}</h4>
-					{% endif %}
-                    {% if site.reading_time and project.false %}
+                    {% if site.reading_time %}
                     <p class="reading-time">
                       <i class="fa fa-clock-o"></i>
                       {% include read-time.html %}

@@ -6,6 +6,7 @@ excerpt: "A native wish list application for Android"
 project: true
 tag:
 - android
+- apps
 - project
 - team
 ---

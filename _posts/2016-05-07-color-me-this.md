@@ -6,6 +6,7 @@ excerpt: "A color detection application project for Android"
 project: true
 tag:
 - android
+- apps
 - project
 - team
 ---

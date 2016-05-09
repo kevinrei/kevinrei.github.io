@@ -6,6 +6,7 @@ excerpt: "An alarm application for Android that keeps track of your game times."
 project: true
 tag:
 - android
+- apps
 - project
 - game
 ---

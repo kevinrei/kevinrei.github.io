@@ -14,12 +14,11 @@ I've been both a passionate leader and a loyal follower when it comes to doing t
 My life right now contains a lot of self-learning.  I've been working on Android projects to boost my knowledge in Java and to build cool things.  I've been learning a lot on lynda.com (using my LinkedIn Premium trial, I admit) to revisit the basic&mdash;but essential&mdash;concepts like OOP and code efficiency.  I've been diving into new languages like Python and SQL to expand my arsenal of programming tools, and I've been using new tools like Eclipse and Unity 2D program more efficiently.
 
 My life right now also contains a lot of mobile gaming (especially Puzzle & Dragons and White Cat Project), Game of Thrones, and taking care of our adorable rescue dog, Mocha.
-<center>
-<figure>
+
+<center><figure>
 	<a href="https://cloud.githubusercontent.com/assets/8562283/15103645/4073089c-1573-11e6-8dcb-ee03ca26caea.jpg"><img src="https://cloud.githubusercontent.com/assets/8562283/15103645/4073089c-1573-11e6-8dcb-ee03ca26caea.jpg"></a>
 	<figcaption>Meet Mocha, our adorable Dachshund-Chihuahua mix.  Adopted from CAP on April 10, 2016.</figcaption>
-</figure>
-</center>
+</figure></center>
 
 
 ----------

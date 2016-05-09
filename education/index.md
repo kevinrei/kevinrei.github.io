@@ -30,12 +30,10 @@ date: 2016-05-08
 * Member of the Year for Jersey Village HOPE Club (Helping Other People Everyday).  I was proud to serve the community through this wonderful organization.
 * Cypress-Fairbanks ISD Technology Festival 2009 Logo Design Contest Winner.  I designed the logo in my Webmastering class.  I was really surprised.
 * High school graduation as _Magna Cum Laude_.  Class of 2010!
-<center>
-<figure>
+<center><figure>
 	<a href="https://cloud.githubusercontent.com/assets/8562283/15100661/dbf21ff0-153d-11e6-89cd-486b64899ec4.png"><img src="https://cloud.githubusercontent.com/assets/8562283/15100661/dbf21ff0-153d-11e6-89cd-486b64899ec4.png"></a>
 	<figcaption>The final logo design for the technology festival.</figcaption>
-</figure>
-</center>
+</figure></center>
 
 ### The University of Texas at Austin
 * Member of the Year for Student Events Center Asian American Culture Committee, awarded in April 2013.  I've been in the organization for four years, and it was one of the greatest choices I made at UT.  I served as their Event Coordinator.
