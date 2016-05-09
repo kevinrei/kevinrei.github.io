@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Past Education and Accomplishments
-tags: [about]
+tags: [about, education]
 date: 2016-05-08
 ---
 

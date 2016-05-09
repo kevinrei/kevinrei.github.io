@@ -7,7 +7,7 @@ date: 2016-05-08
 
 **First and foremost, thank you very much for taking interest.**  
 <br>
-With my programming background and leadership experiences, I am confident that I will be able to bring strong contributions to and commit quality work for your company.  I am always willing to learn new technologies that I am unfamiliar with to adapt as swiftly as possible for practical use.
+With my programming background and leadership experiences, I am confident that I will be able to bring strong contributions and commitment to produce quality results for your company.  I am always willing to learn new technologies that I am unfamiliar with to adapt as swiftly as possible for practical use.
 
 ----------
 
@@ -29,7 +29,7 @@ With my programming background and leadership experiences, I am confident that I
 &nbsp;
 
 ## EDUCATION
-**The University of Texas at Austin** - Austin, TX<br/>
+**The University of Texas at Austin** &mdash; Austin, TX<br/>
 *Bachelor of Science in Computer Science*, May 2015
 
 &nbsp;
@@ -66,8 +66,6 @@ August 2011 – May 2015
 February 2016 – Present
 * Responsible for clerical work including data entry of volunteer forms with Excel and Constant Contact.
 * Created flyers and pamphlets as well as engaged in social media marketing via Facebook for the upcoming Toolbox Bash 2016 auction and dinner event.
-
-&nbsp;
 
 ----------
 
