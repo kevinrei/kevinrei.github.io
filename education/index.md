@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Past Education and Accomplishments
-tags: [about, education]
+title: Education and Achievements
+tags: [about, education, achievements]
 date: 2016-05-08
 ---
 
@@ -11,6 +11,8 @@ date: 2016-05-08
 <div id='my-timeline'/>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=170LpFN9kSSNILr6-4p7xrhEab0AkZ0jCNkF1N2qAG1E&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
 </p>
+
+<center><p style="font-size: 12px"><i>Special thanks to</i> <a href="https://timeline.knightlab.com">Timeline JS by knight lab</a> <i>for the interactive timeline.</i></p></center>
 
 ----------
 
