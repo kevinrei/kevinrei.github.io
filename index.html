@@ -1,0 +1,186 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
+<html>
+
+	<head>
+		<title>Kevin Rei Mateo</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >		
+		
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.poptrox.min.js"></script>
+		<script src="assets/js/typed.js"></script>
+		<script src="assets/js/skel.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="assets/js/main.js"></script>
+	</head>
+	
+	<body id="top">
+
+		<!-- Header -->
+		<header id="header">
+			<div class="inner" align="center">
+				<div class="image avatar"><img src="images/kevinrei.png" /></div>
+				<h2><strong>Hello.</strong></h2>
+				<h1>I'm <strong>Kevin</strong>, and I am<br />
+				<div id="typed-strings">
+					<p><strong>Japanese</strong>, <strong>Filipino</strong>, and <strong>American</strong>.				
+					<p>a self-taught <strong>Android Developer</strong>.</p>
+					<p>a versatile <strong>Event Coordinator</strong>.</p>
+					<p>a passionate <strong>volunteer</strong>.</p>
+					<p>a proud <strong>Longhorn</strong>. #HookEm</p>				
+					<p>at your service.</p>
+				</div>
+				<span id="typed"></span></h1>
+				
+				<div>
+				  <button class="stop" type="button" style="background: transparent; border: none; outline: none;">
+					  <i class="fa fa-pause-circle" style="color: #fff"></i>
+				  </button>
+				  <button class="start" type="button" style="background: transparent; border: none; outline: none;">
+					  <i class="fa fa-play-circle" style="color: #fff"></i>
+				  </button>
+				</div>
+				
+				<script>
+					$(function(){
+						$("#typed").typed({
+							stringsElement: $('#typed-strings'),
+							typeSpeed: 50,
+							backSpeed: 10,
+							backDelay: 2000,
+							loop: true
+						});
+					});
+					
+					$('.stop').on('click', function() {
+						$("#typed").data('typed').pauseTyping();
+					});
+
+					$('.start').on('click', function() {
+						$("#typed").data('typed').continueTyping();
+					});
+				</script>
+			</div>
+				
+		</header> 
+		<!-- End Header -->
+
+		<!-- Main -->
+		<div id="main">
+
+			<!-- One -->
+			<section id="one">
+			
+				<header class="major">
+					<h2>I'm a proud graduate from UT Austin with a B.S. in Computer Science ready to change the world.</h2>
+				</header>
+				<p><strong><em>I am currently seeking grand opportunities in the IT field.</em></strong></p>
+				<p>I’m both a passionate leader and a loyal follower when it comes to doing the things I love: programming. I develop Android apps to further expand my knowledge in Java programming and Android, and I have led groups and followed great leaders to coordinate some of the best events during my university days.  </p>
+				<p>I'm a lifelong learner.  I love to learn <em>everything</em>&mdash;from the old but gold to the latest and greatest, especially in the Android realm.  I'm also an avid lover of coffee.  I'm always motivated by my morning coffee, and I'm surrounded with terms like Java (programming) and Mocha (our cute little Chiweenie).</p>
+				<p>If you want to chat about Android's coolest features and apps, share your favorite video games, learn more about me and how I can help your company or event, or just grab coffee, <a href="#contact">let's talk</a>.
+			</section> 
+			<!-- End One -->
+
+			<!-- Two -->
+			<section id="two">
+				<h2>Works</h2>
+				<div class="row">
+					<article class="6u 12u$(xsmall) work-item">
+						<a href="best-wishes.html" class="image fit thumb" data-poptrox="iframe,800x600"><img src="images/thumbs/best_wishes.jpg" /></a>
+						<h3>Best Wishes</h3>
+						<p>A native Android wish list app where you can save profiles to remember all the best wishes. Available on Google Play.</p>
+						<a href="https://play.google.com/store/apps/details?id=com.kevinrei.bestwishes" target="_blank" class="button fit" style="margin-top: 1em;">Get it on Google Play</a>
+					</article>
+					<article class="6u$ 12u$(xsmall) work-item">
+						<a href="https://colormethis.weebly.com/" class="image fit thumb" data-poptrox="iframe,800x600" target="_blank"><img src="images/thumbs/color-me-this.jpg" /></a>
+						<h3>Color Me This!</h3>
+						<p>A color detection application project on Android.  I was reponsible coding for the main functionalities of the app.</p>
+						<a href="https://github.com/sygmo/ColorMeThis" target="_blank" class="button fit" style="margin-top: 1em;">Check out our Github repo</a>						
+					</article>
+					<article class="6u 12u$(xsmall) work-item">
+						<a href="event-coordinating.html" class="image fit thumb" data-poptrox="iframe,800x600"><img src="images/thumbs/ee.jpg" /></a>
+						<h3>Event Coordinating</h3>
+						<p>Proudly contributed to and coordinated numerous events for 4 years with Campus Events + Entertainment.</p>
+						<a href="https://universityunions.utexas.edu/events-and-entertainment/" target="_blank" class="button fit" style="margin-top: 1em;">Visit E+E's website</a>
+					</article>
+					<article class="6u$ 12u$(xsmall) work-item">
+						<a href="courses.html" class="image fit thumb" data-poptrox="iframe,800x600"><img src="images/thumbs/courses.jpg" /></a>
+						<h3>Online Courses</h3>
+						<p>I have taken various online courses on StackSkills, Udemy, and Lynda.com to improve and learn new skills.</p>
+						<a href="http://www.huffingtonpost.com/tom-snyder/the-benefits-of-online-le_b_2573991.html" target="_blank" class="button fit" style="margin-top: 1em;">The Benefits of Online Learning</a>
+					</article>		
+				</div>
+			</section> 
+			<!-- End Two -->
+
+			<!-- Three -->
+			<section id="three">
+				<a name="contact"><h2>Let's chat</h2></a>
+				<form id="contactform" action="https://formspree.io/kevinrei@gmail.com" method="POST">
+					<div class="row uniform 50%">
+						<div class="6u 12u$(xsmall)">
+							<input type="text" name="name" placeholder="Name" />
+						</div>
+						<div class="6u$ 12u$(xsmall)">
+							<input type="email" name="email" placeholder="Email" />
+						</div>
+						<div class="12u$">
+							<textarea name="message" placeholder="Type your message here" rows="6"></textarea>
+						</div>
+						<div class="12u$">
+							<ul class="actions">
+								<li><input type="submit" value="Send Message" class="special" /></li>
+								<li><input type="reset" value="Reset" /></li>
+							</ul>
+						</div>
+						<input type="hidden" name="_subject" value="Personal Website Contact" />
+						<input type="text" name="_gotcha" style="display: none" />
+						<script>
+							var contactform =  document.getElementById('contactform');
+							contactform.setAttribute('action', '//formspree.io/' + 'your' + '@' + 'email' + '.' + 'com');
+						</script>
+					</div>
+				</form>
+			</section> 
+			<!-- End Three -->
+			
+		</div> 
+		<!-- End Main -->
+
+		<!-- Footer -->
+		<footer id="footer" align="center">
+			<div class="inner">
+				<ul class="icons">
+					<li><a href="https://www.facebook.com/kevinreimateo" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://plus.google.com/+KevinReiMateo" class="icon fa-google-plus"><span class="label">Google Plus</span></a></li>
+					<li><a href="https://twitter.com/GlacierxRei" class="icon fa-twitter"><span class="label">Twitter</span></a></li>						
+					<li><a href="https://www.linkedin.com/in/kevinreimateo" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+					<li><a href="https://github.com/kevinrei" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="https://glaciermochaproject.wordpress.com/" class="icon fa-wordpress"><span class="label">WordPress</span></a></li>
+					<li><a href="mailto:kevinrei@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+				<div class="copyright" style="margin: 1em 0 0 0;">
+					&copy; 2016 Kevin Rei Mateo
+				</div>
+				<ul class="copyright">
+					<li><a href="https://html5up.net/strata">Strata Template</a></li>
+					<li>Powered by <a href="https://pages.github.com/">Github Pages</a></li>
+				</ul>
+			</div>
+		</footer> 
+		<!-- End Footer -->
+
+	</body>
+</html>
